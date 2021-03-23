@@ -1,7 +1,8 @@
 # Data_Analysis
 
 The assignments were taken from here:
-  <pre>⬤ Lab1:
+  <pre>
+       ⬤ Lab1:
           <b>task_1.</b> Formation of an array of data for further analytical processing of RSS.
           <b>task_2.</b> Generation of a JSON file suitable for downloading to the ElasticSearch system. Implement the procedure of converting RSS feeds to JSON format in Python or R languages.
        ⬤ Lab3:
