@@ -7,9 +7,10 @@ The assignments were taken from here:
           <b>task_2.</b> Generation of a JSON file suitable for downloading to the ElasticSearch system. Implement the procedure of converting RSS feeds to JSON format in Python or R languages.
        ⬤ Lab3:
           <b>task_3.</b> Upload ElasticSearch information to a database from a JSON file. (need to Install ElasticSearch)
+       ⬤ Lab4:
+          <b>task_4.</b> Queries to ElasticSearch. Development of a web interface to the ElasticSearch database.
           
        <b>NEED</b> to do:
-            <b>task_4.</b> Queries to ElasticSearch. Development of a web interface to the ElasticSearch database.
             <b>task_5.</b> Installation of the Kibana system and construction of reports (dashboards).
             <b>task_6.</b> Obtaining aggregate data from ElasticSearch and their statistical processing (mean, variance, covariance, linear trend).
             <b>task_7.</b> Algorithm ΔL and search for information anomalies by pattern (wavelet "Mexican hat").
