@@ -1,0 +1,2 @@
+For this lab all what you need is download a version of Kibana that the same version of Elasticsearch.
+Run from cmd kibanu. And you can build diagramms on your data, which was loaded to Elastic.
