@@ -15,7 +15,8 @@ The assignments were taken from here:
           <b>task_6.</b> Obtaining aggregate data from ElasticSearch and their statistical processing (mean, variance, covariance, linear trend).
        ⬤ Lab7:
           <b>task_7.</b> Algorithm ΔL and search for information anomalies by pattern (wavelet "Mexican hat").
+       ⬤ Lab8:
+          <b>task_8.</b> Extraction of concepts (keywords) from texts (selected on request) by methods: TF-IDF and dispersion.
           
        <b>NEED</b> to do:
-            <b>task_8.</b> Extraction of concepts (keywords) from texts (selected on request) by methods: TF-IDF and dispersion.
             <b>task_9.</b> Forming a network of concepts (keywords) in the Gephi environment. (need to Install the Gephi system)</pre>
