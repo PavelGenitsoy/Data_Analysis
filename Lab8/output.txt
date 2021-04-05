@@ -1,0 +1,32 @@
+A list of the 30 most important words on the topic identified by Microsoft:
+
+	1) microsoft - 277
+	2) xbox - 91
+	3) windows - 73
+	4) компания - 39
+	5) fps - 25
+	6) series - 25
+	7) exchange - 23
+	8) boost - 22
+	9) игр - 21
+	10) версии - 19
+	11) google - 19
+	12) компании - 19
+	13) платформы - 19
+	14) bethesda - 19
+	15) пользователей - 18
+	16) office - 16
+	17) работы - 16
+	18) кадров - 16
+	19) представила - 15
+	20) word - 15
+	21) обновление - 15
+	22) системы - 14
+	23) android - 14
+	24) играх - 14
+	25) обновления - 14
+	26) game - 14
+	27) security - 13
+	28) игры - 13
+	29) стало - 13
+	30) discord - 13
