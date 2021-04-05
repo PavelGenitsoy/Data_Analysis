@@ -17,8 +17,6 @@ body = \
 
 res = es.search(index="final_index", body=body)
 
-total_count = res['hits']['total']['value']
-
 all_word_list = ""
 for it, i_dict in enumerate(res['hits']['hits']):
     all_word_list += " " + i_dict['_source']['title'] + " " + i_dict['_source']['textBody']
@@ -26,12 +24,12 @@ for it, i_dict in enumerate(res['hits']['hits']):
 all_word_list = all_word_list.lower()
 
 t = re.sub(r"&nbsp;", " ", all_word_list)
-t1 = re.sub(r"<p>", " ", t)
-t2 = re.sub(r"&#[0-9][0-9][0-9][0-9];", " ", t1)
+t = re.sub(r"<p>", " ", t)
+t = re.sub(r"&#[0-9][0-9][0-9][0-9];", " ", t)
 
 save_str = ""
 flag = True
-tmp_str = t2
+tmp_str = t
 while flag:
     left_part_string, _, right_part_string = tmp_str.partition('<')
     save_str += " " + left_part_string
